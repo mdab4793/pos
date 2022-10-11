@@ -693,29 +693,6 @@
     "image": "https://github.com/mdab4793/pos/blob/main/%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3%E1%84%85%E1%85%A9%E1%84%87%E1%85%A6%E1%84%85%E1%85%B5%E1%84%91%E1%85%B5%E1%84%8E%E1%85%B5%E1%84%91%E1%85%B3%E1%84%85%E1%85%A1%E1%84%91%E1%85%A6.jpeg?raw=true",
     "price": 5000
   },
-  {
-    "id": 94,
-    "name": "복숭아에이드",
-    "filter": "beverage",
-    "image": "https://github.com/mdab4793/pos/blob/main/%E1%84%87%E1%85%A9%E1%86%A8%E1%84%89%E1%85%AE%E1%86%BC%E1%84%8B%E1%85%A1%E1%84%8B%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B3.jpeg?raw=true",
-    "price": 5000
-  },
-
-  {
-    "id": 95,
-    "name": "프렌치얼그레이",
-    "filter": "tea",
-    "image": "https://github.com/mdab4793/pos/blob/main/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A6%E1%86%AB%E1%84%8E%E1%85%B5%E1%84%8B%E1%85%A5%E1%86%AF%E1%84%80%E1%85%B3%E1%84%85%E1%85%A6%E1%84%8B%E1%85%B5.jpeg?raw=true",
-    "price": 6000
-  },
-
-  {
-    "id": 96,
-    "name": "애플민트티",
-    "filter": "tea",
-    "image": "https://github.com/mdab4793/pos/blob/main/%E1%84%8B%E1%85%A2%E1%84%91%E1%85%B3%E1%86%AF%E1%84%86%E1%85%B5%E1%86%AB%E1%84%90%E1%85%B3%E1%84%90%E1%85%B5.jpeg?raw=true",
-    "price": 6000
-  },
 
   {
     "id": 97,
@@ -751,6 +728,29 @@
     "name": "아이스흑당밀크티",
     "filter": "tea",
     "image": "https://github.com/mdab4793/pos/blob/main/%E1%84%92%E1%85%B3%E1%86%A8%E1%84%83%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%84%87%E1%85%B3%E1%86%AF%E1%84%90%E1%85%B5.jpeg?raw=true",
+    "price": 6000
+  },
+  {
+    "id": 102,
+    "name": "복숭아에이드",
+    "filter": "beverage",
+    "image": "https://github.com/mdab4793/pos/blob/main/%E1%84%87%E1%85%A9%E1%86%A8%E1%84%89%E1%85%AE%E1%86%BC%E1%84%8B%E1%85%A1%E1%84%8B%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B3.jpeg?raw=true",
+    "price": 5000
+  },
+
+  {
+    "id": 103,
+    "name": "프렌치얼그레이",
+    "filter": "tea",
+    "image": "https://github.com/mdab4793/pos/blob/main/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A6%E1%86%AB%E1%84%8E%E1%85%B5%E1%84%8B%E1%85%A5%E1%86%AF%E1%84%80%E1%85%B3%E1%84%85%E1%85%A6%E1%84%8B%E1%85%B5.jpeg?raw=true",
+    "price": 6000
+  },
+
+  {
+    "id": 104,
+    "name": "애플민트티",
+    "filter": "tea",
+    "image": "https://github.com/mdab4793/pos/blob/main/%E1%84%8B%E1%85%A2%E1%84%91%E1%85%B3%E1%86%AF%E1%84%86%E1%85%B5%E1%86%AB%E1%84%90%E1%85%B3%E1%84%90%E1%85%B5.jpeg?raw=true",
     "price": 6000
   }
 ]
