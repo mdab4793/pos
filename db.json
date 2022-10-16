@@ -1011,5 +1011,12 @@
     "takeout": ["일회용컵", "머그컵"],
     "image": "https://github.com/mdab4793/pos/blob/main/%E1%84%8B%E1%85%A2%E1%84%91%E1%85%B3%E1%86%AF%E1%84%86%E1%85%B5%E1%86%AB%E1%84%90%E1%85%B3%E1%84%90%E1%85%B5.jpeg?raw=true",
     "price": 6000
+  },
+  {
+    "id": 105,
+    "name": "텀블러할인",
+    "filter": "discount",
+
+    "price": -300
   }
 ]
